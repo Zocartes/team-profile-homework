@@ -1,0 +1,31 @@
+{
+  "name": "team-profile-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Israel-Molestina/team-profile-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Israel-Molestina/team-profile-gen/issues"
+  },
+  "homepage": "https://github.com/Israel-Molestina/team-profile-gen#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "inquirer": "^8.1.5",
+    "jest": "^26.6.3"
+  }
+}

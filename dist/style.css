@@ -1,0 +1,14 @@
+.header {
+    background-color: rgb(248, 209, 138);
+    text-align: center;
+    padding: 40px;
+    border-bottom: 5px solid black;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.card-header {
+    background-color: thistle;
+}
